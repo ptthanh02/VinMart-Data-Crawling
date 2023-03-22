@@ -1,4 +1,4 @@
-Cào data của web VinMart dùng thư viện Selenium
+### Cào data của web VinMart dùng thư viện Selenium
 Nội Dung Cào:
 - Link sản phẩm của 10 page đầu tiên
 - Tên sản phẩm (string)
@@ -6,4 +6,4 @@ Nội Dung Cào:
 - Giá bán (float)
 - Trạng thái (nếu có) (string)
 - Kho hàng (nếu có) (string)
-- Mô tả sản phẩ
+- Mô tả sản phẩm
